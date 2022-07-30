@@ -1,5 +1,5 @@
 {
-  "name": "do-api-slugs",
+  "name": "do-api-slugs-vue-docker-nginx-do-app-droplet",
   "version": "0.1.0",
   "private": true,
   "scripts": {

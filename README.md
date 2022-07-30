@@ -1,9 +1,36 @@
+# do-api-slugs-vue-docker-nginx-do-app-droplet
+
+# 🚀 Look up slugs for use with the API DigitalOcean 🚀
+
+https://github.com/coding-to-music/do-api-slugs-vue-docker-nginx-do-app-droplet
+
+From / By Andrew Starr-Bochicchio https://github.com/andrewsomething
+
+https://github.com/andrewsomething/do-api-slugs
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/do-api-slugs-vue-docker-nginx-do-app-droplet.git
+git push -u origin main
+```
+
 # DigitalOcean API Slugs
 
 [https://slugs.do-api.dev/](https://slugs.do-api.dev/)
 
 ![Screenhot](https://i.imgur.com/etNCvLU.png)
-
 
 ## Project Details
 
