@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "now-build": "npm run build",
